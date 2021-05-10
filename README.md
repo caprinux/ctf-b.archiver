@@ -19,7 +19,7 @@ Or maybe your brain too smooth and you didn't manage to solve any challenge?
 
 **WORRY NOT**. 
 
-We introduce to you our very own ~~**FLEXTAPE**~~**CTF.SG Scraper/Archiver**, written specially in BASH!!
+We introduce to you our very own ~~**FLEXTAPE**~~ **CTF.SG Scraper/Archiver**, written specially in BASH!!
 
 _what bash???_ YES BASH. THAT BASH. THE COMMAND LINE LANGUAGE YOU USE IN LINUX.
 
