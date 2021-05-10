@@ -2,6 +2,7 @@
 ---
 
 Archiver for CTF site, brought to u by BASH.
+
 _this couldn't be possible without KKTan from CSIT_
 
 ---
@@ -45,4 +46,7 @@ _PROFIT_
 ---
 
 _todo: ctfd bash script coming soon, ctfsg bash script one liner??_
+
 _if you feel there are any changes you can make, feel free to git-push!_
+
+**Also check: https://github.com/IRS-Cybersec/ctf-archiver**
